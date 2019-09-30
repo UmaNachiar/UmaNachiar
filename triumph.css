@@ -1,0 +1,57 @@
+
+body{
+    overflow-x:hidden;
+}
+.bg-overlay {
+    
+background: url("3rd.PNG");
+    
+background-repeat: no-repeat;
+   
+ background-size: cover;
+ 
+   background-position: center center;
+    
+color: #fff;
+
+    height: 450px;
+    
+padding-top: 50px;
+
+}
+
+.hi{
+
+  background: black;
+
+opacity:0.5;
+
+}
+
+
+.card img{
+width:250px;
+height:200px;
+}
+
+
+
+.updates{
+
+font-size:16px;
+border:2mm ridge lightseagreen;
+}
+
+.topi{
+
+text-align:center;
+
+font-weight:bold;
+
+background-color:lightblue;
+
+font-size:20px;
+
+}
+
+

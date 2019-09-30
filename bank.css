@@ -1,0 +1,33 @@
+
+body{
+    overflow-x:hidden;
+}
+.bg-overlay {
+    
+background: url("ban.jpg");
+    
+background-repeat: no-repeat;
+   
+ background-size: cover;
+ 
+   background-position: center center;
+    
+color: white;
+
+    height: 350px;
+    
+padding-top: 50px;
+
+}
+
+
+.hi{
+
+  background: black;
+
+opacity:0.5;
+
+}
+
+
+
